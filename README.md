@@ -1,4 +1,4 @@
-# Credit_Card_Financial_Dashboard Visualization with Power-Bi
+# Credit_Card_Financial_Report Visualization with Power-Bi
 
 ## Project Objective:
 The aim is to create a comprehensive weekly credit card dashboard that provides real-time insights into key performance metrics and trends. This will enable stakeholders to monitor, analyze, and optimize credit card operations, supporting data-driven decisions and improving overall efficiency
